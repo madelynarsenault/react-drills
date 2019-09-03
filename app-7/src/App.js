@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import NewTask from "./NewTask";
-import List from "./list";
+import List from "./List";
 
 class App extends Component {
   constructor () {
